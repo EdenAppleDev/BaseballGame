@@ -7,8 +7,5 @@
 
 import Foundation
 
-
-let input = readLine()
-
 let game = BaseballGame()
 game.start()
