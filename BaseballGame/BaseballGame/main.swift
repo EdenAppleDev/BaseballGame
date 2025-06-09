@@ -7,5 +7,5 @@
 
 import Foundation
 //인스턴스 생성후 함수 호출
-let game = BaseballGame()
+var game = BaseballGame()
 game.start()
